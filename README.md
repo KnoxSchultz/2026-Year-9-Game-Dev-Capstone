@@ -1,5 +1,5 @@
 # 2026-Year-9-Game-Dev-Capstone
 
-24/4/26
+**April 24th 2026**
 - Created GitHub repository
 - Brainstormed game ideas
