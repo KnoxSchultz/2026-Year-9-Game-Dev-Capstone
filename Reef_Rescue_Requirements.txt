@@ -1,0 +1,45 @@
+GAMEDEV STUDIO — EXAMPLE GAME ANALYSIS
+Requirements & Scope
+==================================================
+
+EXAMPLE GAME: Reef Rescue
+GENRE: 2D top-down collection game
+TARGET AUDIENCE: Year 7 science students
+
+FUNCTIONAL REQUIREMENTS
+------------------------------
+FR1. Keyboard movement for the submarine
+FR2. A score, timer, lives display and short tutorial prompt
+FR3. Treasure and rubbish items that can be collected
+FR4. Hazards that reduce lives when touched
+FR5. A win or lose screen at the end of the level
+
+NON-FUNCTIONAL REQUIREMENTS
+------------------------------
+NFR1. Easy to learn controls
+NFR2. Satisfying feelings controls
+NFR3. It must run on school Windows laptops using approved software
+NFR4. Scenes have easy to read scripts and clear names for updating the game further
+
+CONSTRAINTS
+------------------------------
+CON1. The prototype must be completed in four weeks
+CON2. All images, sounds and fonts must be royalty-free or student-created
+CON3. The game must be suitable for Year 7 students
+CON4. Have to make a game the client likes
+CON5. It must run on school Windows laptops using approved software
+
+SCOPE — IN SCOPE
+------------------------------
+✓ Treasure and rubbish items that can be collected
+✓ Player controls the character with WASD
+✓ One level
+
+SCOPE — OUT OF SCOPE
+------------------------------
+✗ Online accounts, multiplayer and leaderboards
+✗ Ten levels
+✗ Power-ups
+
+==================================================
+Exported from GameDev Studio Requirements Lesson
