@@ -1,5 +1,10 @@
 # 2026-Year-9-Game-Dev-Capstone
 
+**May 11th 2026**
+- Onion design planning
+- Four corners sheet
+- Game design element sheet
+
 **May 5th 2026**
 - Measurable evaluations activity
   
